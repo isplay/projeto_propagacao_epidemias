@@ -1,0 +1,10 @@
+# Links úteis para o projeto.
+
+Acompanhamento dos Casos de Coronavirus (COVID-19) Prefeitura Municipal de Niterói
+https://experience.arcgis.com/experience/305269f3cdd24839b263c5ab346e1aa7
+
+Painel Coronavírus COVID-19
+https://painel.saude.rj.gov.br/monitoramento/covid19.html
+
+Informações de Saúde
+http://sistemas.saude.rj.gov.br/tabnetbd/dhx.exe?covid19/esus_sivep.def
