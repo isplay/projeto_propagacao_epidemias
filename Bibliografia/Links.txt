@@ -8,3 +8,6 @@ https://painel.saude.rj.gov.br/monitoramento/covid19.html
 
 Informações de Saúde
 http://sistemas.saude.rj.gov.br/tabnetbd/dhx.exe?covid19/esus_sivep.def
+
+Human Development Indices (5.0)
+https://globaldatalab.org/shdi/shdi/?levels=1%2B4&interpolation=1&extrapolation=0&nearest_real=0
